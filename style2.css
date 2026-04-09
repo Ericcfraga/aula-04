@@ -6,23 +6,28 @@ table {
   letter-spacing: 1px;
   margin-inline-start: 350px;
 }
+
 caption {
   caption-side: bottom;
   padding: 10px;
   font-weight: bold;
 }
+
 thead,
 tfoot {
   background-color: rgb(248, 185, 11);
 }
+
 th,
 td {
   border: 1px solid rgb(255, 0, 0);
   padding: 8px 10px;
 }
+
 td:last-of-type {
   text-align: center;
 }
-tbody > tr:nth-of-type(even) {
+
+tbody>tr:nth-of-type(even) {
   background-color: rgb(226, 231, 152);
 }
