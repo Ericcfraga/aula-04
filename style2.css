@@ -17,7 +17,6 @@ td {
 }
 td:last-of-type {
   text-align: center;
-  td: :nth-of-type(even) 
 }
 tbody > tr:nth-of-type(even) {
   background-color: rgb(231, 152, 152);
